@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+
+
+    <item android:id="@+id/action_pesquisar"
+              android:title="pesquisar"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+
+    <item
+
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/sett"
+        android:title="configuracoes"/>
+
+
+    <item
+    android:id="@+id/action_cadastrar"
+    android:title="@string/action_Cadastrar"
+    />
+    <item
+        android:id="@+id/lista_lojas"
+        android:title="@string/action_ListarLoja"
+
+        />
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Doacao App</string>
+    <string name="my_tb_title"></string>
+    <string name="my_tb_subtitle"></string>
+    <string name="action_settings">Settings</string>
+    <string name="action_pesquisar">Pesquisar</string>
+    <string name="title_activity_lista_loja">ListaLojaActivity</string>
+    <string name="title_activity_lista_loja_adapter">ListaLojaAdapter</string>
+
+    <string name="action_Cadastrar">Cadastrar Loja</string>
+    <string name="action_ListarLoja">Lista Loja</string>
+</resources>
